@@ -2,7 +2,6 @@
 Je me présente. Je suis Rixlay, un youtubeur débutant sur Call of duty mobile principalement et d'autres jeux. J'ai 109 abonnés et je cherche à agrandir ma chaîne et ma communauté.
 <html>
     <head>
-        <title> Team RX </title>
     </head>
     <body>
        <p>
@@ -14,7 +13,5 @@ Je me présente. Je suis Rixlay, un youtubeur débutant sur Call of duty mobile 
     <p> <h3> <u> <b> MES RÉSEAUX </b> </u> </h3> </p>
  <p> <a href ="https://www.youtube.com/@RixYTB_85"/> Ma chaîne Youtube principal </a></p>
        </p>
-       
-       <div> Hi bro </div>
     </body>
 </html>
